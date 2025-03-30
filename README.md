@@ -9,6 +9,7 @@ Decentralized Vehicle NFT Finance Protocol
 - Smart contract: solidity
 
 ## Demo
+- Demo Video: https://youtu.be/Rh5U-4qK9yY
 - Project Deck: https://docs.google.com/presentation/d/1ZL5G8HfCN5avqS2K-LP_1BXkJPXp5F_x/edit?usp=sharing&ouid=116694140472098066353&rtpof=true&sd=true
 
 ## Team
